@@ -1,0 +1,34 @@
+# Node
+node_modules/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# CSV / exports (Medusa)
+*.csv
+static/
+
+# Vercel / deployment
+.vercel
+
+# IDE
+.vscode/
+.idea/

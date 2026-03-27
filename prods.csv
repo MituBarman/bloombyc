@@ -1,0 +1,11 @@
+Product Id,Product Handle,Product Title,Product Subtitle,Product Description,Product Status,Product Thumbnail,Product Weight,Product Discountable,Variant Title,Variant Manage Inventory,Variant Price EUR,Variant Price USD,Variant Option 1 Name,Variant Option 1 Value,Product Image 1 Url,Product Image 2 Url
+,gold-chain-v1,Elegant Gold Chain,,A timeless gold chain crafted to elevate your everyday style with elegance.,published,,100,true,Standard,true,45,50,Size,Standard,,
+,diamond-ring-v1,Diamond Ring,,A sparkling diamond ring designed for special moments and everyday luxury.,published,,50,true,Size 7,true,120,130,Size,7,,
+,silver-bracelet-v1,Silver Bracelet,,Minimal and classy silver bracelet for a refined everyday look.,published,,80,true,Standard,true,35,40,Size,Standard,,
+,pearl-necklace-v1,Pearl Necklace,,Classic pearl necklace that adds grace and charm to any outfit.,published,,120,true,Standard,true,60,70,Size,Standard,,
+,hoop-earrings-v1,Gold Hoop Earrings,,Stylish gold hoop earrings for a bold yet elegant look.,published,,30,true,Standard,true,25,30,Size,Standard,,
+,anklet-v1,Silver Anklet,,Delicate silver anklet designed for a graceful touch.,published,,40,true,Standard,true,20,25,Size,Standard,,
+,rose-gold-ring-v1,Rose Gold Ring,,Modern rose gold ring with a sleek and elegant finish.,published,,45,true,Size 6,true,55,65,Size,6,,
+,charm-bracelet-v1,Charm Bracelet,,A playful charm bracelet to express your personality.,published,,70,true,Standard,true,40,45,Size,Standard,,
+,stud-earrings-v1,Diamond Stud Earrings,,Minimal diamond studs perfect for everyday elegance.,published,,20,true,Standard,true,75,85,Size,Standard,,
+,layered-necklace-v1,Layered Necklace,,Trendy layered necklace for a modern chic look.,published,,110,true,Standard,true,65,75,Size,Standard,,
